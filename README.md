@@ -12,18 +12,18 @@ The order in which the notebooks should be completed is not arbitrary, since som
   3. weather scraping 
   4. weather processing and feature engineering 
 * Further data manipulation and graphs 
-  5. utils 
-  6. feature engineering
-  7. Dataset 
-  8. Interpolation 
-  9. osmnx utils 
-  10. windows of graphs 
-  11. osmnx to PyG conversion 
-  12. Pytorch Geometric to Pytorch Geometric Temporal conversion 
+  1. utils 
+  2. feature engineering
+  3. Dataset 
+  4. Interpolation 
+  5. osmnx utils 
+  6. windows of graphs 
+  7. osmnx to PyG conversion 
+  8. Pytorch Geometric to Pytorch Geometric Temporal conversion 
 * Deep Learning models and predictions  
-  13. weighted MSELoss with radius
-  14. LSTM weather and time to PM 2.5 
-  15. GNN on city graph 
+  1. LSTM weather and time to PM 2.5 
+  2. weighted MSELoss with radius
+  3. GNN on city graph 
 
 
 The "plotting journeys" notebook can be completed at any time, since it a useful, but not necessary part of this project.
