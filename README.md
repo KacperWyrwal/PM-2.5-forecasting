@@ -2,7 +2,7 @@
 This is a report on the project carried out by myself between 23.05.2022 and 29.07.2022, whose purpose was to develop a method, based on graph deep learning, of forecasting pollution measurements in cities across space and time. 
 
 # Overview 
-Please consult the overview presentation.
+Please consult the "report overview.pptx" presentation.
 
 # Walking through the notebooks 
 The order in which the notebooks should be completed is not arbitrary, since some later notebooks depend on the results of the ones prior. Thus, the following order is recommended:
