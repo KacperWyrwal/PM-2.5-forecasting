@@ -2,16 +2,7 @@
 This is a report on the project carried out by myself between 23.05.2022 and 29.07.2022, whose purpose was to develop a method, based on graph deep learning, of forecasting pollution measurements in cities across space and time. 
 
 # Overview 
-There are three main stages to this project:
-1. Obtaining and processing numeric data: 
-In the project we utilise three types of data: 
-- PM 2.5 measurements with GPS coordinates from the DAPHNE and CPCB datasets (both of which must be downloaded from DataSync)
-- weather data obtained via webscraping
-- time features engineering from the timestamps of the data above
-The goal, still unreached, of this project was to construct a DL model which would learn jointly on these three types of data to forecast the PM 2.5 measurements in space and time. Thus, in order to align these data types, a Dataset class was constructed. 
-
-2. Processing graph data
-...
+Please consult the overview presentation.
 
 # Walking through the notebooks 
 The order in which the notebooks should be completed is not arbitrary, since some later notebooks depend on the results of the ones prior. Thus, the following order is recommended:
